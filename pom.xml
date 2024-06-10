@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>request</artifactId>
+	<artifactId>request123-4</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
-	<name>request</name>
+	<name>request123-4</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -29,10 +29,10 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.1.4</muleVersion>
+						<muleVersion>4.6.2</muleVersion>
 						<username>Chaithanya1</username>
 						<password>Chaithu@516</password>
-						<applicationName>request</applicationName>
+						<applicationName>request123-4</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-2</region>
 						<workers>1</workers>
